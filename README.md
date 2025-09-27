@@ -54,6 +54,7 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
   <i>👋 App Introduction | 🔐 Login & Authentication</i>
 </p>
 ![Home Page](_/apps/screenshots/profile.png)
+![Profile Screen](_/apps/mobile/screenshots/profile.png)
 
 ### 🏠 Home & Profile Setup
 <p align="center">
