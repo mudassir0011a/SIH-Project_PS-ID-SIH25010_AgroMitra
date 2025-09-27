@@ -43,6 +43,23 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
      ┣ scan-I.png
      ┗ scan-result.png
 
+# Project Screenshots
+
+## Authentication & Profile
+![Login and Authentication](./apps/screenshots/login_and_authentication.png)
+![Profile Setup](./apps/screenshots/profile_setup.png)
+![Profile](./apps/screenshots/profile.png)
+
+## Main Features
+![Home Screen](./apps/screenshots/home.png)
+![Intro Screen](./apps/screenshots/intro.png)
+![Crops & Market](./apps/screenshots/crops_&_market.png)
+
+## Chatbot & Scanning
+![Chatbot Interface](./apps/screenshots/chatbot.png)
+![Scan Screen](./apps/screenshots/scan-1.png)
+![Scan Result](./apps/screenshots/scan-result.png)
+
 ## 📸 Screenshots
 
 ### 🚀 Intro & Authentication
