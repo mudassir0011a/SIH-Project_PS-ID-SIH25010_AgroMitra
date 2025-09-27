@@ -47,6 +47,8 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
 
 ### 🚀 Intro & Authentication
 
+![Intro Screen](apps/screenshots/intro.png)
+
 ![Intro Screen](web/screenshots/intro.png)
 ![Login Screen](web/screenshots/login_and_authentication.png)
 
