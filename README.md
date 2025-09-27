@@ -47,7 +47,7 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
 
 ### 🚀 Intro & Authentication
 <p align="center">
-  <img src="screenshots/intro.png" alt="Intro Screen" width="220"/>
+  <img src="" alt="Intro Screen" width="220"/>
   <img src="screenshots/login_and_authentication.png" alt="Login & Authentication" width="220"/>
 </p>
 <p align="center">
@@ -112,52 +112,3 @@ npm install
 # Run project
 npm start
 
-## 📸 Screenshots
-
-### 🚀 Intro & Authentication
-<p align="center">
-  <img src="screenshots/intro.png" alt="Intro Screen" width="220"/>
-  <img src="screenshots/login_and_authentication.png" alt="Login & Authentication" width="220"/>
-</p>
-<p align="center">
-  <i>👋 App Introduction | 🔐 Login & Authentication</i>
-</p>
-
-### 🏠 Home & Profile Setup
-<p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="220"/>
-  <img src="screenshots/profile_setup.png" alt="Profile Setup" width="220"/>
-</p>
-<p align="center">
-  <i>🏠 Home Dashboard | 📝 Profile Setup</i>
-</p>
-
-### 👤 Profile & Chatbot
-<p align="center">
-  <img src="screenshots/profile.png" alt="Profile Page" width="220"/>
-  <img src="screenshots/chatbot.png" alt="Chatbot" width="220"/>
-</p>
-<p align="center">
-  <i>👤 Farmer Profile | 🤖 AI Chatbot</i>
-</p>
-
-### 🌾 Crops & Market
-<p align="center">
-  <img src="screenshots/crops_&_market.png" alt="Crops & Market" width="220"/>
-</p>
-<p align="center">
-  <i>🌾 Crop Recommendations + 🏬 Market Prices</i>
-</p>
-
-### 🔍 Scan Feature
-<p align="center">
-  <img src="screenshots/scan-I.png" alt="Scan Input" width="220"/>
-  <img src="screenshots/scan-result.png" alt="Scan Result" width="220"/>
-</p>
-<p align="center">
-  <i>📷 Crop Scan Input | ✅ Scan Result with Advisory</i>
-</p>
-
----
-
-⭐ All screens support **🌞 Light Mode** and **🌙 Dark Mode** with a toggle available on every page.
