@@ -46,6 +46,8 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
 ## 📸 Screenshots
 
 ### 🔐 Authentication & Profile
+
+![Intro Screen](_/apps/screenshots/intro.png)
 ![Login and Authentication](_/apps/screenshots/login_and_authentication.png)
 ![Profile Setup](_/apps/screenshots/profile_setup.png)
 ![Profile](_/apps/screenshots/profile.png)
@@ -54,7 +56,6 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
 
 ### 🏠 Main Features
 ![Home Screen](_/apps/screenshots/home.png)
-![Intro Screen](_/apps/screenshots/intro.png)
 ![Crops & Market](_/apps/screenshots/crops_&_market.png)
 
 ---
