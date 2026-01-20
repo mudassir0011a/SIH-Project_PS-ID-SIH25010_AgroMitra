@@ -45,97 +45,46 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
 
 # Project Screenshots
 
-## Authentication & Profile
-![Login and Authentication](./apps/screenshots/login_and_authentication.png)
-![Profile Setup](./apps/screenshots/profile_setup.png)
-![Profile](./apps/screenshots/profile.png)
+### 🔐 Authentication & Profile
+![Login and Authentication](apps/screenshots/login_and_authentication.png)
+![Profile Setup](apps/screenshots/profile_setup.png)
+![Profile](apps/screenshots/profile.png)
 
-## Main Features
-![Home Screen](./apps/screenshots/home.png)
-![Intro Screen](./apps/screenshots/intro.png)
-![Crops & Market](./apps/screenshots/crops_&_market.png)
+---
 
-## Chatbot & Scanning
-![Chatbot Interface](./apps/screenshots/chatbot.png)
-![Scan Screen](./apps/screenshots/scan-1.png)
-![Scan Result](./apps/screenshots/scan-result.png)
-
-## 📸 Screenshots
-
-### 🚀 Intro & Authentication
-
+### 🏠 Main Features
+![Home Screen](apps/screenshots/home.png)
 ![Intro Screen](apps/screenshots/intro.png)
+![Crops & Market](apps/screenshots/crops_&_market.png)
 
-![Intro Screen](web/screenshots/intro.png)
-![Login Screen](web/screenshots/login_and_authentication.png)
+---
 
+### 🤖 Chatbot & Scanning
+![Chatbot Interface](apps/screenshots/chatbot.png)
+![Scan Screen](apps/screenshots/scan-1.png)
+![Scan Result](apps/screenshots/scan-result.png)
+
+---
+
+### 📱 Mobile View (Clean & Centered)
 <p align="center">
-  <i>👋 App Introduction | 🔐 Login & Authentication</i>
-</p>
-
-
-![Intro Screen](web/screenshots/intro.png)
-
-
-
-![Intro Screen](_/apps/mobile/screenshots/intro.png)
-![Login Screen](_/apps/mobile/screenshots/login_and_authentication.png)
-
-### 🚀 Intro & Authentication
-
-<p align="center">
-  <img src="_/apps/mobile/screenshots/intro.png" alt="Intro Screen" width="220"/>
-  <img src="_/apps/mobile/screenshots/login_and_authentication.png" alt="Login Screen" width="220"/>
+  <img src="apps/screenshots/intro.png" width="220"/>
+  <img src="apps/screenshots/login_and_authentication.png" width="220"/>
 </p>
 
 <p align="center">
-  <i>👋 App Introduction | 🔐 Login & Authentication</i>
+  <img src="apps/screenshots/home.png" width="220"/>
+  <img src="apps/screenshots/profile_setup.png" width="220"/>
 </p>
 
-### 🚀 Intro & Authentication
 <p align="center">
-  <img src="" alt="Intro Screen" width="220"/>
-  ![Home Page](screenshots/profile.png)
-</p>
-<p align="center">
-  <i>👋 App Introduction | 🔐 Login & Authentication</i>
-</p>
-![Home Page](_/apps/screenshots/profile.png)
-![Profile Screen](_/apps/mobile/screenshots/profile.png)
-
-### 🏠 Home & Profile Setup
-<p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="220"/>
-  <img src="screenshots/profile_setup.png" alt="Profile Setup" width="220"/>
-</p>
-<p align="center">
-  <i>🏠 Home Dashboard | 📝 Profile Setup</i>
+  <img src="apps/screenshots/profile.png" width="220"/>
+  <img src="apps/screenshots/chatbot.png" width="220"/>
 </p>
 
-### 👤 Profile & Chatbot
 <p align="center">
-  <img src="screenshots/profile.png" alt="Profile Page" width="220"/>
-  <img src="screenshots/chatbot.png" alt="Chatbot" width="220"/>
-</p>
-<p align="center">
-  <i>👤 Farmer Profile | 🤖 AI Chatbot</i>
-</p>
-
-### 🌾 Crops & Market
-<p align="center">
-  <img src="screenshots/crops_&_market.png" alt="Crops & Market" width="220"/>
-</p>
-<p align="center">
-  <i>🌾 Crop Recommendations + 🏬 Market Prices</i>
-</p>
-
-### 🔍 Scan Feature
-<p align="center">
-  <img src="screenshots/scan-I.png" alt="Scan Input" width="220"/>
-  <img src="screenshots/scan-result.png" alt="Scan Result" width="220"/>
-</p>
-<p align="center">
-  <i>📷 Crop Scan Input | ✅ Scan Result with Advisory</i>
+  <img src="apps/screenshots/scan-1.png" width="220"/>
+  <img src="apps/screenshots/scan-result.png" width="220"/>
 </p>
 
 ---
