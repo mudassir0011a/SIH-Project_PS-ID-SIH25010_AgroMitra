@@ -44,6 +44,7 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
      ┗ scan-result.png
 
 # Project Screenshots
+## 📸 Screenshots
 
 ### 🔐 Authentication & Profile
 ![Login and Authentication](apps/screenshots/login_and_authentication.png)
@@ -66,7 +67,7 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
 
 ---
 
-### 📱 Mobile View (Clean & Centered)
+### 📱 Mobile View
 <p align="center">
   <img src="apps/screenshots/intro.png" width="220"/>
   <img src="apps/screenshots/login_and_authentication.png" width="220"/>
@@ -86,7 +87,6 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
   <img src="apps/screenshots/scan-1.png" width="220"/>
   <img src="apps/screenshots/scan-result.png" width="220"/>
 </p>
-
 ---
 
 ⭐ All screens support **🌞 Light Mode** and **🌙 Dark Mode** with a toggle available on every page.
