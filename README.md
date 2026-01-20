@@ -43,51 +43,27 @@ The app focuses on **simplicity, multilingual support, and farmer-friendly UI** 
      ┣ scan-I.png
      ┗ scan-result.png
 
-# Project Screenshots
 ## 📸 Screenshots
 
 ### 🔐 Authentication & Profile
-![Login and Authentication](apps/screenshots/login_and_authentication.png)
-![Profile Setup](apps/screenshots/profile_setup.png)
-![Profile](apps/screenshots/profile.png)
+![Login and Authentication](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/login_and_authentication.png)
+![Profile Setup](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/profile_setup.png)
+![Profile](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/profile.png)
 
 ---
 
 ### 🏠 Main Features
-![Home Screen](apps/screenshots/home.png)
-![Intro Screen](apps/screenshots/intro.png)
-![Crops & Market](apps/screenshots/crops_&_market.png)
+![Home Screen](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/home.png)
+![Intro Screen](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/intro.png)
+![Crops & Market](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/crops_&_market.png)
 
 ---
 
 ### 🤖 Chatbot & Scanning
-![Chatbot Interface](apps/screenshots/chatbot.png)
-![Scan Screen](apps/screenshots/scan-1.png)
-![Scan Result](apps/screenshots/scan-result.png)
+![Chatbot Interface](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/chatbot.png)
+![Scan Screen](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/scan-1.png)
+![Scan Result](https://raw.githubusercontent.com/mudassir0011a/SIH-Project_PS-ID-SIH25010_AgroMitra/main/apps/screenshots/scan-result.png)
 
----
-
-### 📱 Mobile View
-<p align="center">
-  <img src="apps/screenshots/intro.png" width="220"/>
-  <img src="apps/screenshots/login_and_authentication.png" width="220"/>
-</p>
-
-<p align="center">
-  <img src="apps/screenshots/home.png" width="220"/>
-  <img src="apps/screenshots/profile_setup.png" width="220"/>
-</p>
-
-<p align="center">
-  <img src="apps/screenshots/profile.png" width="220"/>
-  <img src="apps/screenshots/chatbot.png" width="220"/>
-</p>
-
-<p align="center">
-  <img src="apps/screenshots/scan-1.png" width="220"/>
-  <img src="apps/screenshots/scan-result.png" width="220"/>
-</p>
----
 
 ⭐ All screens support **🌞 Light Mode** and **🌙 Dark Mode** with a toggle available on every page.
 
